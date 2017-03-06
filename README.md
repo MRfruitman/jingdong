@@ -1,1 +1,2 @@
-# jingdong
+# jingd
+京东首页的重构（练习）
